@@ -1,4 +1,4 @@
-![Title Page](./src/assets/images/plane.png)
+![Title Page](http://stephanieye.com/images/neighbourgood.png)
 
 #NeighbourGood
 --------------
