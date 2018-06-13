@@ -17,6 +17,8 @@ Users can also browse posted jobs, post messages and apply to a job, and rate th
 
 Our goal is to foster a cooperative society, starting close to home.
 
+![Job Page](http://stephanieye.com/images/neighbourgood1.png)
+
 ##Approach
 ----------
 Concept
@@ -37,7 +39,7 @@ Project Development Process
 
 ##Future Features
 -----------------
-* The ability for users to send private messages or email to each other.
+* The ability for users to send private messages or email each other.
 * Using a payment API so users can transfer money for jobs that require money.
 * Users can create a list of favourite people that they like to ask/help.
 * An achievements system where users earn medals after completing a certain number of jobs.
