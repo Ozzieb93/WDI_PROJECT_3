@@ -59,7 +59,7 @@ CSS Framework:
 
 Third-party APIs
 * Google Maps
-* Gmail
+* Gmail OAuth
 * Filestack
 
 Wireframing Tool:
