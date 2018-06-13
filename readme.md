@@ -1,4 +1,4 @@
-![Title Page](image.png)
+![Title Page](./src/assets/images/plane.png)
 
 #NeighbourGood
 --------------
