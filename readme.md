@@ -1,8 +1,8 @@
-![Title Page](http://stephanieye.com/images/neighbourgood.png)
+![Title Page](src/assets/images/neighbourgood.png)
 
 #NeighbourGood
 --------------
-* [View app on Heroku](https://neighbourgood.herokuapp.com/#!/)
+* [View app on Heroku](https://neighbourgood.herokuapp.com)
 * [View repository on GitHub](https://github.com/Ozzieb93/WDI_PROJECT_3)
 
 A MEAN Stack app, planned and built in a week by Ozzie Balesaria, Matt Hunter-King and Stephanie Ye
@@ -17,7 +17,7 @@ Users can also browse posted jobs, post messages and apply to a job, and rate th
 
 Our goal is to foster a cooperative society, starting close to home.
 
-![Job Page](http://stephanieye.com/images/neighbourgood1.png)
+![Jobs Page](src/assets/images/neighbourgood1.png)
 
 ##Approach
 ----------
@@ -37,6 +37,8 @@ Project Development Process
 * At the frontend, we completed the RESTful routes, then implemented third-party APIs and extra features such as ratings and filtering.
 * Once we were happy with the functionality of the app, we moved on to CSS and testing.
 
+![Show Page](src/assets/images/neighbourgood2.png)
+
 ##Future Features
 -----------------
 * The ability for users to send private messages or email each other.
@@ -53,6 +55,9 @@ Languages:
 
 Front-end Web Application Framework:
 * AngularJS
+
+Server Environment
+* Node.js with Express.js
 
 CSS Framework:
 * Bulma
